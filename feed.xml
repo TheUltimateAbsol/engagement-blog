@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TOP SECRET</title>
+    <link href="https://engagement.wonder-tag.online/feed.xml" rel="self" />
+    <link href="https://engagement.wonder-tag.online" />
+    <updated>2022-06-28T20:48:53-04:00</updated>
+    <author>
+        <name>Brandon Ellis</name>
+    </author>
+    <id>https://engagement.wonder-tag.online</id>
+
+    <entry>
+        <title>How it all went down</title>
+        <author>
+            <name>Brandon Ellis</name>
+        </author>
+        <link href="https://engagement.wonder-tag.online/the-engagement-plan.html"/>
+        <id>https://engagement.wonder-tag.online/the-engagement-plan.html</id>
+
+        <updated>2022-06-28T20:48:53-04:00</updated>
+            <summary>
+                <![CDATA[
+                    At work I have to create infrastructure diagrams with something called "draw.io". I did this a lot. Too much. In fact I think 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>At work I have to create infrastructure diagrams with something called "draw.io". I did this a lot. Too much. In fact I think </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
