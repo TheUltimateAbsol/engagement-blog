@@ -6,22 +6,22 @@
     "feed_url": "https://engagement.wonder-tag.online/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Brandon Ellis"
+        "name": "Brandon Ellis (Now Engaged)"
     },
     "items": [
         {
             "id": "https://engagement.wonder-tag.online/the-engagement-plan.html",
             "url": "https://engagement.wonder-tag.online/the-engagement-plan.html",
             "title": "How it all went down",
-            "summary": "At work I have to create infrastructure diagrams with something called \"draw.io\". I did this a lot. Too much. In fact I think ",
-            "content_html": "<p>At work I have to create infrastructure diagrams with something called \"draw.io\". I did this a lot. Too much. In fact I think </p>",
+            "summary": "The Plan At work I have to create infrastructure diagrams with something called \"draw.io\". I use this tool to diagram whatever crazy technology&hellip;",
+            "content_html": "<h2>The Plan</h2>\n<p>At work I have to create infrastructure diagrams with something called \"draw.io\". I use this tool to diagram whatever crazy technology ideas my boss wanted me to put together for work. I did this a lot. Too much. In fact I think. Somehow a part of me thought it would be a good idea to do this for my relationship as well.</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://engagement.wonder-tag.online/media/posts/1/wedding_ring.drawio-2.png\" alt=\"\" width=\"1889\" height=\"1112\"></figure>\n<p>Looks complicated, right? Actually it's not. It's a very linear path where one thing leads to another, but we sprinkled \"technology\" on it so it seems like it's magic :)</p>\n<p>I'll explain how this diagram works as the day progresses. </p>\n<h2>The Big Day</h2>\n<p>(To be continued... typing takes time)</p>\n<p> </p>",
             "author": {
-                "name": "Brandon Ellis"
+                "name": "Brandon Ellis (Now Engaged)"
             },
             "tags": [
             ],
             "date_published": "2022-06-28T19:44:38-04:00",
-            "date_modified": "2022-06-28T20:48:53-04:00"
+            "date_modified": "2022-08-13T16:00:52-04:00"
         }
     ]
 }
